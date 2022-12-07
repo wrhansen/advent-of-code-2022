@@ -10,8 +10,6 @@ Facts:
   - Identify where the four most recently received characters were all different
 
   - Specifically, report the number of characters from the beginning of the buffer to the end of the first such four-character marker.
-
-*
 */
 package main
 
